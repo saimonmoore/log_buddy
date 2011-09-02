@@ -27,3 +27,15 @@ prints:
      ====> e:  /hel/
 
 
+## Limitations
+
+Do :
+```javascript
+d(a,b,c);
+d(e,f,g);
+```
+
+Don't :
+```javascript
+d(a,b,c); d(e,f,g);
+```
