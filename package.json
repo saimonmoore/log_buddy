@@ -1,0 +1,16 @@
+{
+  "author": "Saimon Moore <saimonmoore@gmail.com> (http://saimonmoore.net)",
+  "name": "log-buddy",
+  "description": "Easy console debugging (partial port of original ruby version: https://github.com/relevance/log_buddy",
+  "version": "0.0.1",
+  "homepage": "https://github.com/saimonmoore/log_buddy",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/saimonmoore/log_buddy.git"
+  },
+  "keywords": ["logging", "debugging"],
+  "main": "./lib/log_buddy",
+  "engines": {
+    "node": ">=0.4.5"
+  }
+}
